@@ -270,6 +270,15 @@ utm_campaign
   /funding
     funding-angle.en.md
     funding-angle.es.md
+  /investment
+    investment-context.en.md
+    technology.en.md
+    metrics-and-claims.en.md
+    business-model.en.md
+    market-competition-moat.en.md
+    fundraising.en.md
+    team.en.md
+    investor-faq.en.md
   /impact
     impact-lca-mysx.en.md
     impact-lca-mysx.es.md
@@ -324,6 +333,7 @@ The coding agent must:
 - Use `context/audiences/` and `context/regions/` before creating persona, tier, or regional landing pages.
 - Use `context/seo/` and `context/campaigns/` before creating editorial, campaign, or search-focused pages.
 - Use `context/design/` and `context/components/` before creating visual systems, design tokens, or reusable page copy.
+- Use `context/investment/` and `agent/investor-content-rules.md` before creating investor pages, fundraising pages, metric cards, data room pages, or investor FAQs.
 - Use `context/press/` for press pages, media boilerplate, press inquiry CTAs, and media-contact copy.
 - Never create an English page without a Spanish counterpart.
 - Keep design consistent across all sections.

@@ -49,6 +49,40 @@ Always be clear about:
 - What assumptions apply.
 - What the customer can verify.
 
+## Investment Evidence Labels
+
+Investor-facing claims and metrics must use one of these labels:
+
+- Achieved.
+- Observed.
+- Measured.
+- Modeled.
+- Projected.
+- Target.
+- Benchmark.
+- R&D validated.
+- Investor estimate.
+
+Do not present projections, modeled upside, investor benchmarks, or targets as achieved facts.
+
+## Investor Carbon Claim Language
+
+Use:
+
+- Observed in production workloads.
+- Varies by workload and region.
+- Demonstrated in controlled R&D environments.
+- Modeled reduction potential.
+- Confidence-labeled climate claims.
+
+Avoid:
+
+- Guaranteed emissions reduction.
+- Zero carbon cloud.
+- Carbon neutral by default.
+- Eliminates emissions.
+- Verified globally unless third-party verification exists.
+
 ## Proof Categories
 
 ### Technical Proof

@@ -33,6 +33,7 @@ Use this checklist before adding or changing public pages.
 - Press and media copy comes from `context/press/`.
 - Environmental, compliance, ESG, and sustainability claims follow `context/claims/claims-policy.en.md`.
 - Persona, tier, and region-specific messaging follows `context/audiences/` and `context/regions/`.
+- Investor-facing metrics and fundraising claims follow `context/investment/metrics-and-claims.en.md` and `agent/investor-content-rules.md`.
 
 ## Forms
 

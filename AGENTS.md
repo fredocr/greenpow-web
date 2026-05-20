@@ -9,7 +9,8 @@ Use this repository to build a bilingual GREENPOW website.
 3. `agent/build-sequence.md`
 4. `agent/content-parity-checklist.md`
 5. `agent/marketing-content-rules.md` when writing copy
-6. `agent/replit-instructions.md` when working in Replit
+6. `agent/investor-content-rules.md` when writing investor-facing copy
+7. `agent/replit-instructions.md` when working in Replit
 
 ## Non-Negotiable Requirements
 
@@ -19,6 +20,7 @@ Use this repository to build a bilingual GREENPOW website.
 - Use structured content from `context/` as the source of truth.
 - Use `context/marketing/`, `context/audiences/`, `context/regions/`, `context/claims/`, `context/seo/`, `context/campaigns/`, `context/website/`, `context/design/`, and `context/components/` when generating marketing pages, campaign pages, SEO content, or component copy.
 - Use `agent/marketing-content-rules.md` when generating copy.
+- Use `context/investment/` and `agent/investor-content-rules.md` when generating investor pages, fundraising pages, data room pages, metric cards, or investor FAQs.
 - Do not hardcode strategic positioning, product copy, legal copy, press copy, or vertical copy directly inside components.
 - Present GREENPOW as product-led infrastructure technology, not only managed hosting or services.
 - Keep the mission clear: reduce the carbon footprint of cloud computing.
