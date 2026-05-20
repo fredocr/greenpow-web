@@ -77,6 +77,7 @@ Use Cases
 Impact
 Partners
 Funding / Investors
+Press
 About
 Contact
 ```
@@ -120,6 +121,8 @@ Recommended initial route map:
 /es/partners
 /en/funding
 /es/inversores
+/en/press
+/es/prensa
 /en/about
 /es/sobre-greenpow
 /en/contact
@@ -209,6 +212,7 @@ Required public forms:
 ```txt
 Partner form
 Investor form
+Press / media form
 Support form
 General contact form
 Demo / sales form
@@ -252,6 +256,9 @@ utm_campaign
   /partners
     partners-affiliates.en.md
     partners-affiliates.es.md
+  /press
+    press-media.en.md
+    press-media.es.md
   /legal
     cookies.en.md
     cookies.es.md
@@ -285,6 +292,7 @@ The coding agent must:
 - Use structured context files as the source of truth.
 - Use `agent/` files for workflow and build-sequence guidance.
 - Treat `rnd/` as exploratory material, not approved public copy.
+- Use `context/press/` for press pages, media boilerplate, press inquiry CTAs, and media-contact copy.
 - Never create an English page without a Spanish counterpart.
 - Keep design consistent across all sections.
 - Use reusable page templates for products and verticals.

@@ -19,6 +19,7 @@ Scaffold the Next.js app foundation with:
 - Language switcher.
 - Content loading pattern.
 - Placeholder pages for approved route parity.
+- Press/media pages from `context/press/`.
 
 ## First Quality Gate
 

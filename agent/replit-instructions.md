@@ -18,6 +18,7 @@ Then inspect `context/` for approved content.
 - Keep `/en/...` and `/es/...` parity.
 - Build reusable product and use-case templates.
 - Load strategic content from structured files rather than hardcoding it in components.
+- Use `context/press/` for press/media pages, press boilerplate, and media inquiry CTAs.
 - Use one server-side Pipedrive handler for all forms.
 - Do not expose Pipedrive secrets to browser code.
 

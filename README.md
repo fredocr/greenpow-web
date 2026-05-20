@@ -14,7 +14,7 @@ For coding agents, read in this order:
 
 ## Repository Map
 
-- [context](context): approved source-of-truth material for brand, product, legal, vertical, impact, funding, sales, partners, and forms.
+- [context](context): approved source-of-truth material for brand, product, legal, vertical, impact, funding, sales, partners, press/media, and forms.
 - [agent](agent): workflow instructions for Replit, Codex, and other coding agents.
 - [rnd](rnd): research and development bucket for hypotheses, product research, experiments, and future ideas.
 - [docs/decisions](docs/decisions): accepted decisions that future agents should preserve.

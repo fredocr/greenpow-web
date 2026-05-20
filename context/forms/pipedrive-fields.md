@@ -4,6 +4,7 @@
 
 - Partner form
 - Investor form
+- Press / media form
 - Support form
 - General contact form
 - Demo / sales form
@@ -21,7 +22,7 @@ All public forms must submit through one central form handler. Do not create sep
 | company | No | Company or organization. |
 | role | No | Job title or function. |
 | country | No | Country for regional context. |
-| interest_type | Yes | One of `demo`, `sales`, `partner`, `investor`, `support`, `general`. |
+| interest_type | Yes | One of `demo`, `sales`, `partner`, `investor`, `press`, `support`, `general`. |
 | message | No | Free-text message. |
 | preferred_language | Yes | `en` or `es`. |
 | source_page | Yes | Full route where the form was submitted. |

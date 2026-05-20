@@ -30,6 +30,7 @@ Use this checklist before adding or changing public pages.
 - Strategic claims match `PROJECT_BRIEF.md`.
 - RND content has been promoted before use.
 - Legal content has not been improvised inside components.
+- Press and media copy comes from `context/press/`.
 
 ## Forms
 
