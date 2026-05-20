@@ -10,3 +10,5 @@ Track changes that affect how coding agents should work in this repository.
 - Added `docs/implementation/` for build handoffs and implementation notes.
 - Clarified that `rnd/` is not approved production copy until promoted.
 - Added `context/press/` for bilingual press and media source material.
+- Added marketing and communications context buckets for audiences, regions, claims, SEO, campaigns, website messaging, design, and component copy.
+- Added `agent/marketing-content-rules.md` for AI-assisted content generation rules.

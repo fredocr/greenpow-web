@@ -8,7 +8,8 @@ Use this repository to build a bilingual GREENPOW website.
 2. `agent/operating-model.md`
 3. `agent/build-sequence.md`
 4. `agent/content-parity-checklist.md`
-5. `agent/replit-instructions.md` when working in Replit
+5. `agent/marketing-content-rules.md` when writing copy
+6. `agent/replit-instructions.md` when working in Replit
 
 ## Non-Negotiable Requirements
 
@@ -16,6 +17,8 @@ Use this repository to build a bilingual GREENPOW website.
 - Use `/en/...` and `/es/...` route prefixes.
 - Never create an English route without a Spanish route with matching layout, metadata, CTA structure, and form behavior.
 - Use structured content from `context/` as the source of truth.
+- Use `context/marketing/`, `context/audiences/`, `context/regions/`, `context/claims/`, `context/seo/`, `context/campaigns/`, `context/website/`, `context/design/`, and `context/components/` when generating marketing pages, campaign pages, SEO content, or component copy.
+- Use `agent/marketing-content-rules.md` when generating copy.
 - Do not hardcode strategic positioning, product copy, legal copy, press copy, or vertical copy directly inside components.
 - Present GREENPOW as product-led infrastructure technology, not only managed hosting or services.
 - Keep the mission clear: reduce the carbon footprint of cloud computing.
@@ -35,7 +38,7 @@ Use this repository to build a bilingual GREENPOW website.
 
 ## Content Ownership
 
-The context files are implementation inputs. If a page needs copy, metadata, CTA text, FAQs, product descriptions, legal content, press content, or form requirements, read from `context/` first and keep language parity.
+The context files are implementation inputs. If a page needs copy, metadata, CTA text, FAQs, product descriptions, legal content, press content, campaign copy, visual guidance, claim policy, persona messaging, regional positioning, or form requirements, read from `context/` first and keep language parity.
 
 ## Source Priority
 

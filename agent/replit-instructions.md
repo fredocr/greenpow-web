@@ -9,6 +9,7 @@ Read these files first:
 3. `agent/operating-model.md`
 4. `agent/build-sequence.md`
 5. `agent/content-parity-checklist.md`
+6. `agent/marketing-content-rules.md`
 
 Then inspect `context/` for approved content.
 
@@ -19,6 +20,7 @@ Then inspect `context/` for approved content.
 - Build reusable product and use-case templates.
 - Load strategic content from structured files rather than hardcoding it in components.
 - Use `context/press/` for press/media pages, press boilerplate, and media inquiry CTAs.
+- Use the marketing context buckets for audience, region, claims, SEO, campaigns, homepage, design, and component copy before generating new pages.
 - Use one server-side Pipedrive handler for all forms.
 - Do not expose Pipedrive secrets to browser code.
 

@@ -20,6 +20,7 @@ Scaffold the Next.js app foundation with:
 - Content loading pattern.
 - Placeholder pages for approved route parity.
 - Press/media pages from `context/press/`.
+- Marketing page and component copy from `context/marketing/`, `context/audiences/`, `context/regions/`, `context/claims/`, `context/seo/`, `context/campaigns/`, `context/website/`, `context/design/`, and `context/components/`.
 
 ## First Quality Gate
 

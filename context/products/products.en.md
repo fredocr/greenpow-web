@@ -4,6 +4,16 @@
 
 GREENPOW is organized around five product areas that together position the company as product-led cloud infrastructure technology.
 
+Marketing can also package these capabilities into five customer-facing product categories:
+
+- Self-Service Cloud.
+- Cloud-as-a-Service.
+- GreenOps for AI.
+- WordPress VPS.
+- Private Cloud.
+
+These marketing categories should be reconciled with the platform architecture during implementation. They do not replace the core product structure below unless explicitly approved.
+
 ## 1. Public Cloud Optimization
 
 Carbon-aware workload routing, cloud cost optimization, and Scope 2 visibility for organizations using public cloud providers.
@@ -83,3 +93,88 @@ Convert institutional knowledge, process memory, decision context, and operation
 - Decision-support structure.
 - Knowledge continuity.
 - Autonomous organization infrastructure.
+
+## Marketing Product Categories
+
+### Self-Service Cloud
+
+Ready-to-deploy cloud resources for teams that need fast, flexible infrastructure with carbon-aware principles.
+
+Audience: T1 and T2.
+
+Core message: Launch cloud infrastructure quickly with a more sustainable foundation.
+
+Use cases:
+
+- Startup hosting.
+- Developer environments.
+- Web apps.
+- MVPs.
+- Small SaaS deployments.
+- WordPress VPS.
+- Lightweight AI services.
+
+### Cloud-as-a-Service
+
+Managed private cloud and scalable cloud solutions for organizations that need reliability, control, and operational support.
+
+Audience: T2 and T3.
+
+Core message: Private and managed cloud infrastructure designed for performance, privacy, and lower-carbon operations.
+
+Use cases:
+
+- Private cloud.
+- SaaS infrastructure.
+- Fintech infrastructure.
+- Agency hosting.
+- Enterprise workloads.
+- Compliance-sensitive applications.
+
+### GreenOps For AI
+
+Tools and infrastructure logic for carbon-aware scheduling, optimization, and monitoring of compute-intensive workloads.
+
+Audience: T2 and T3, especially AI and high-performance computing teams.
+
+Core message: Run demanding workloads with better visibility into energy and carbon impact.
+
+Use cases:
+
+- AI workloads.
+- Model training.
+- Batch processing.
+- Carbon-aware workload scheduling.
+- Infrastructure optimization.
+
+### WordPress VPS
+
+A simple, efficient VPS offering for WordPress users, agencies, freelancers, and small businesses.
+
+Audience: T1 and T2.
+
+Core message: Faster, cleaner WordPress hosting with carbon-aware infrastructure behind it.
+
+Use cases:
+
+- Agency websites.
+- Startup websites.
+- Landing pages.
+- E-commerce.
+- Content-heavy sites.
+
+### Private Cloud
+
+Dedicated cloud infrastructure for enterprises, institutions, and regulated organizations.
+
+Audience: T3.
+
+Core message: Secure, private, carbon-aware infrastructure for critical operations.
+
+Use cases:
+
+- Government platforms.
+- Enterprise applications.
+- Regulated workloads.
+- Data-sensitive infrastructure.
+- Sovereign or regional cloud needs.

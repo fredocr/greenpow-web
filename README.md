@@ -11,10 +11,11 @@ For coding agents, read in this order:
 3. [agent/operating-model.md](agent/operating-model.md)
 4. [agent/build-sequence.md](agent/build-sequence.md)
 5. [agent/content-parity-checklist.md](agent/content-parity-checklist.md)
+6. [agent/marketing-content-rules.md](agent/marketing-content-rules.md)
 
 ## Repository Map
 
-- [context](context): approved source-of-truth material for brand, product, legal, vertical, impact, funding, sales, partners, press/media, and forms.
+- [context](context): approved source-of-truth material for brand, product, legal, vertical, impact, funding, sales, partners, press/media, audiences, regions, claims, SEO, campaigns, website messaging, design, components, and forms.
 - [agent](agent): workflow instructions for Replit, Codex, and other coding agents.
 - [rnd](rnd): research and development bucket for hypotheses, product research, experiments, and future ideas.
 - [docs/decisions](docs/decisions): accepted decisions that future agents should preserve.

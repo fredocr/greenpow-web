@@ -241,12 +241,32 @@ utm_campaign
 
 ```txt
 /context
+  /marketing
+    marketing-communications.en.md
+  /audiences
+    audience-segmentation.en.md
+  /regions
+    region-positioning.en.md
+  /claims
+    claims-policy.en.md
   /brand
     brandbook.en.md
     brandbook.es.md
   /sales
     ads-sales.en.md
     ads-sales.es.md
+  /seo
+    seo-editorial.en.md
+  /campaigns
+    powered-by-purpose.en.md
+  /website
+    information-architecture.en.md
+    homepage-messaging.en.md
+  /design
+    visual-brand.en.md
+    tokens.md
+  /components
+    component-copy.en.md
   /funding
     funding-angle.en.md
     funding-angle.es.md
@@ -282,6 +302,13 @@ utm_campaign
     sovereign-cloud.es.md
     legal.en.md
     legal.es.md
+    fintech.en.md
+    blockchain.en.md
+    agencies.en.md
+    government.en.md
+    startups.en.md
+    saas-scaleups.en.md
+    enterprise.en.md
 ```
 
 ## Agent Build Instructions
@@ -292,6 +319,11 @@ The coding agent must:
 - Use structured context files as the source of truth.
 - Use `agent/` files for workflow and build-sequence guidance.
 - Treat `rnd/` as exploratory material, not approved public copy.
+- Use `context/marketing/` as the top-level marketing and communications context.
+- Use `context/claims/` before writing environmental, compliance, ESG, or sustainability claims.
+- Use `context/audiences/` and `context/regions/` before creating persona, tier, or regional landing pages.
+- Use `context/seo/` and `context/campaigns/` before creating editorial, campaign, or search-focused pages.
+- Use `context/design/` and `context/components/` before creating visual systems, design tokens, or reusable page copy.
 - Use `context/press/` for press pages, media boilerplate, press inquiry CTAs, and media-contact copy.
 - Never create an English page without a Spanish counterpart.
 - Keep design consistent across all sections.

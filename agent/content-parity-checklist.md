@@ -31,6 +31,8 @@ Use this checklist before adding or changing public pages.
 - RND content has been promoted before use.
 - Legal content has not been improvised inside components.
 - Press and media copy comes from `context/press/`.
+- Environmental, compliance, ESG, and sustainability claims follow `context/claims/claims-policy.en.md`.
+- Persona, tier, and region-specific messaging follows `context/audiences/` and `context/regions/`.
 
 ## Forms
 
