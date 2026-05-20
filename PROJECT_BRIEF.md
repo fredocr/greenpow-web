@@ -39,6 +39,23 @@ Recommended implementation:
 
 The implementation should avoid hardcoded strategy content inside React components. Use the files in `context/` as the source of truth.
 
+## Repository Structure Model
+
+Use the repository as a layered knowledge system:
+
+```txt
+PROJECT_BRIEF.md        Approved project objective and website requirements.
+AGENTS.md              Non-negotiable agent instructions.
+context/               Approved website source material.
+agent/                 Coding-agent workflow and build instructions.
+rnd/                   Research and development bucket.
+docs/decisions/        Accepted decisions.
+docs/implementation/   Build handoffs and technical notes.
+docs/superpowers/      Superpowers specs and implementation plans.
+```
+
+`rnd/` is intentionally separate from `context/`. It can inform future work, but it is not approved production truth until promoted into `context/`, this brief, or `docs/decisions/`.
+
 ## Language And Routing
 
 Every page must exist in English and Spanish:
@@ -266,6 +283,8 @@ The coding agent must:
 
 - Build a bilingual website in English and Spanish.
 - Use structured context files as the source of truth.
+- Use `agent/` files for workflow and build-sequence guidance.
+- Treat `rnd/` as exploratory material, not approved public copy.
 - Never create an English page without a Spanish counterpart.
 - Keep design consistent across all sections.
 - Use reusable page templates for products and verticals.

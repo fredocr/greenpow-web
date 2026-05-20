@@ -2,6 +2,14 @@
 
 Use this repository to build a bilingual GREENPOW website.
 
+## First Files To Read
+
+1. `PROJECT_BRIEF.md`
+2. `agent/operating-model.md`
+3. `agent/build-sequence.md`
+4. `agent/content-parity-checklist.md`
+5. `agent/replit-instructions.md` when working in Replit
+
 ## Non-Negotiable Requirements
 
 - Build every public page in English and Spanish.
@@ -28,6 +36,24 @@ Use this repository to build a bilingual GREENPOW website.
 ## Content Ownership
 
 The context files are implementation inputs. If a page needs copy, metadata, CTA text, FAQs, product descriptions, legal content, or form requirements, read from `context/` first and keep language parity.
+
+## Source Priority
+
+When sources disagree, use this order:
+
+1. Direct user instruction in the current session.
+2. This `AGENTS.md` file.
+3. `PROJECT_BRIEF.md`.
+4. Files in `agent/`.
+5. Approved source material in `context/`.
+6. Accepted decisions in `docs/decisions/`.
+7. Research notes in `rnd/`.
+
+## RND Bucket Rule
+
+The `rnd/` folder exists for research, hypotheses, experiments, and future ideas. Agents may read it for context, but must not treat it as approved production copy, product commitment, legal language, metadata, or impact evidence.
+
+Before using an RND idea publicly, promote the accepted conclusion into `context/`, `PROJECT_BRIEF.md`, or `docs/decisions/`.
 
 ## Design Direction
 
